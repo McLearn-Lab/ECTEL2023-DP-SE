@@ -1,0 +1,73 @@
+Problem Name,Problem Type,Targeted Misconception,Problem-solving Question,Correctness 1,Correctness 2,Correctness 3,Correctness 4,Correctness 5,Correctness 6,Correctness 7,Correctness 8,Correctness 9,Correctness 10,Notes
+EnterIfYouDare1,Number Line,Decimals smaller than 1 are negative,"Draw a horizontal number line between -1 and 1, with 0 as the midpoint. Then mark the location of 0.2 on this number line with a * symbol.",0,0,0,0,0,0,0,1,0,1,
+EnterIfYouDare2,Number Line,Decimals smaller than 1 are negative,"Draw a horizontal number line between -1 and 1, with 0 as the midpoint. Then mark the location of 0.456 on this number line with a * symbol.",0,0,0,0,0,0,0,0,0,1,
+CaptureGhost1,Bucket,Longer decimals are larger; The leading 0 right after the decimal point can be omitted,"Compare each of the following decimal numbers with 0.51: 0.5, 0.341, 0.213, 0.7, 0.129",1,1,1,1,1,1,1,1,1,1,
+CaptureGhost2,Bucket,Longer decimals are larger; The leading 0 right after the decimal point can be omitted,"Compare each of the following decimal numbers with 0.22: 0.099, 0.5, 0.2, 0.113, 0.8",1,1,1,1,1,1,1,1,1,1,
+ThirstyVampire1,Addition,The numbers to the left and right of the decimal point are separate and independent,"Enter the carry digits and result digits, for both the integer and decimal portions, when adding 3.50 to 5.60",0,0,0,0,0,1,0,0,1,1,Note: ChatGPT gets the correct addition result consistently but keeps saying there is no carrying
+ThirstyVampire2,Addition,The numbers to the left and right of the decimal point are separate and independent,"Enter the carry digits and result digits, for both the integer and decimal portions, when adding 1.90 to 1.90",0,1,0,0,1,1,1,0,0,1,
+NightOfTheZombies1,Number Line,Decimals smaller than 1 are negative,"Draw a horizontal number line between -1 and 1, with 0 as the midpoint. Then mark the location of 0.33 on this number line with a * symbol.",0,1,1,0,0,1,1,1,1,1,
+NightOfTheZombies2,Number Line,Decimals smaller than 1 are negative,"Draw a horizontal number line between -1 and 1, with 0 as the midpoint. Then mark the location of 0.579 on this number line with a * symbol.",0,0,0,0,0,0,0,0,0,0,
+WesternShooter1,Sorting,Longer decimals are larger,"Order the following decimal numbers from smallest to largest: 0.5, 0.6132, 0.492, 0.33.",1,1,1,1,1,1,1,1,1,1,
+WesternShooter2,Sorting,Longer decimals are larger,"Order the following decimal numbers from smallest to largest: 1.381, 1.9, 1.29, 1.6452",1,1,1,1,1,1,1,1,1,1,
+OKCorral1,Bucket,Shorter decimals are larger,"Compare each of the following decimal numbers with 0.29: 0.4, 0.384, 0.101, 0.067, 0.299",0,0,0,0,0,0,0,1,1,0,Note: ChatGPT keeps saying 0.384 < 0.29 and 0.299 < 0.29
+OKCorral2,Bucket,Shorter decimals are larger,"Compare each of the following decimal numbers with 1.51: 1.621, 1.842, 1.4, 1.913, 1.0",1,1,1,1,1,1,1,1,1,1,
+LassoBronco1,Number Line,Decimals smaller than 1 are negative,"Draw a horizontal number line between -1 and 1, with 0 as the midpoint. Then mark the location of 0.9 on this number line with a * symbol.",0,0,0,0,0,0,0,0,0,0,
+LassoBronco2,Number Line,Decimals smaller than 1 are negative,"Draw a horizontal number line between -1 and 1, with 0 as the midpoint. Then mark the location of 0.111 on this number line with a * symbol.",1,0,0,0,0,0,0,0,1,0,
+RocketScience1,Sorting,Longer decimals are larger; Shorter decimals are larger,"Order the following decimal numbers from largest to smallest: 0.9063, 0.39, 0.291, 0.7",1,1,1,1,1,1,1,1,1,1,
+RocketScience2,Sorting,Longer decimals are larger; Shorter decimals are larger,"Order the following decimal numbers from largest to smallest: 9.2111, 9.3, 9.43, 9.222",1,1,1,1,1,1,1,1,1,1,
+SpaceRaider1,Sorting,Longer decimals are larger; Shorter decimals are larger,"Order the following decimal numbers from largest to smallest: 0.3234, 0.5, 0.82, 0.634",1,1,1,1,1,1,1,1,1,1,
+SpaceRaider2,Sorting,Longer decimals are larger; Shorter decimals are larger,"Order the following decimal numbers from largest to smallest: 6.3981, 6.41, 6.698, 6.5",1,1,1,1,1,1,1,1,1,1,
+AlienEscape1,Sequence,The numbers to the left and right of the decimal point are separate and independent,"You are given three sequences of numbers. Please calculate the next two numbers in each sequence.
+ 
+ Sequence 1: 0.3, 0.6, 0.9
+ Sequence 2: 1.3, 2.6, 3.9
+ Sequence 3: 0, 2.4, 4.8",1,1,1,1,1,1,1,1,1,1,
+AlienEscape2,Sequence,The numbers to the left and right of the decimal point are separate and independent,"You are given three sequences of numbers. Please calculate the next two numbers in each sequence.
+ 
+ Sequence 1: 0.25, 0.50, 0.75
+ Sequence 2: 0.0, 0.35, 0.70
+ Sequence 3: 0, 4.4, 8.8",1,1,1,1,1,1,1,1,1,1,
+JungleZipline1,Sorting,The leading 0 right after the decimal point can be omitted,"Order the following decimal numbers from largest to smallest: 0.9876, 0.47, 0.465, 0.5",1,1,1,1,1,1,1,1,1,1,
+JungleZipline2,Sorting,The leading 0 right after the decimal point can be omitted,"Order the following decimal numbers from largest to smallest: 1.0111, 1.31, 1.211, 1.1",1,1,1,1,1,1,1,1,1,1,
+AncientTemple1,Sequence,The numbers to the left and right of the decimal point are separate and independent,"You are given three sequences of numbers. Please calculate the next two numbers in each sequence.
+ 
+ Sequence 1: 0.0, 0.4, 0.8
+ Sequence 2: 2.3, 4.6, 6.9
+ Sequence 3: 3.3, 6.6, 9.9",1,1,1,1,1,1,1,1,1,1,
+AncientTemple2,Sequence,The numbers to the left and right of the decimal point are separate and independent,"You are given three sequences of numbers. Please calculate the next two numbers in each sequence.
+ 
+ Sequence 1: 0.33, 0.66, 0.99
+ Sequence 2: 9.3, 18.6, 27.9
+ Sequence 3: 2.31, 4.62, 6.93",1,1,1,1,1,1,1,1,1,1,
+PhotographLion1,Number Line,The leading 0 right after the decimal point can be omitted,"Draw a horizontal number line between -1 and 1, with 0 as the midpoint. Then mark the location of 0.081 on this number line with a * symbol.",1,1,0,1,1,1,1,1,1,1,
+PhotographLion2,Number Line,The leading 0 right after the decimal point can be omitted,"Draw a horizontal number line between -1 and 1, with 0 as the midpoint. Then mark the location of 0.091 on this number line with a * symbol.",0,0,0,1,0,0,0,0,0,1,
+CastleAttack1,Sorting,Longer decimals are larger; Shorter decimals are larger,"Order the following decimal numbers from smallest to largest: 0.14, 0.4, 0.0234, 0.323",1,1,1,1,1,1,1,1,1,1,
+CastleAttack2,Sorting,Longer decimals are larger; Shorter decimals are larger,"Order the following decimal numbers from smallest to largest: 1.2215, 1.05, 1.3, 1.321",1,1,1,1,1,1,1,1,1,1,
+KnightsOath1,Sequence,The numbers to the left and right of the decimal point are separate and independent,"Find the next two decimal numbers in the following sequence: 1.3, 1.6, 1.9",1,1,1,1,1,1,1,1,1,1,
+KnightsOath2,Sequence,The numbers to the left and right of the decimal point are separate and independent,"Find the next two decimal numbers in the following sequence: 1.1, 2.4, 3.7",1,1,1,1,1,1,1,1,1,1,
+Joust1,Number Line,The leading 0 right after the decimal point can be omitted,"Draw a horizontal number line between -1 and 1, with 0 as the middle point. Then mark the location of three numbers on this number line: -0.43, -0.9, 0.074.",0,0,0,0,0,0,0,0,0,0,
+Joust2,Number Line,The leading 0 right after the decimal point can be omitted,"Draw a horizontal number line between -1 and 1, with 0 as the middle point. Then mark the location of three numbers on this number line: -0.5, 0.089, -0.07",1,1,1,1,1,1,1,1,1,1,
+Football1,Sorting,The leading 0 right after the decimal point can be omitted,"Order the following decimal numbers from largest to smallest: 8.7, 9.0, 8.98, 8.888",1,1,1,1,1,1,1,1,1,1,
+Football2,Sorting,The leading 0 right after the decimal point can be omitted,"Order the following decimal numbers from largest to smallest: 0.1112, 0.1, 0.125, 0.03",1,1,1,1,1,1,1,1,1,1,
+Goal1,Number Line,The leading 0 right after the decimal point can be omitted,"Draw a horizontal number line between -1 and 1, with 0 as the middle point. Then mark the location of -0.08 on this number line. Make sure to preserve the distance scaling (for example, 0.5 should be halfway between 0 and 1).",0,0,0,0,0,0,0,0,0,0,
+Goal2,Number Line,The leading 0 right after the decimal point can be omitted,"Draw a horizontal number line between -1 and 1, with 0 as the middle point. Then mark the location of 0.042 on this number line. Make sure to preserve the distance scaling (for example, 0.5 should be halfway between 0 and 1).",0,0,0,0,0,0,0,0,0,0,
+BalloonPop1,Sorting,Shorter decimals are larger; Comparing negative numbers is the same as comparing their magnitudes,"Order the following decimal numbers from smallest to largest: -0.49, 0.2, 0.1921, 0.382",1,1,1,1,1,1,1,1,1,1,
+BalloonPop2,Sorting,Shorter decimals are larger; Comparing negative numbers is the same as comparing their magnitudes,"Order the following decimal numbers from smallest to largest: 8.5071, -8.56, 8.5, -8.517",1,1,1,1,1,1,1,1,1,1,
+FerrisWheel1,Sequence,The numbers to the left and right of the decimal point are separate and independent,"You are given three sequences of numbers. Please calculate the next two numbers in each sequence.
+ 
+ Sequence 1: 12.3, 24.6, 36.9
+ Sequence 2: 3.33, 6.66, 9.99
+ Sequence 3: 0.32, 0.64, 0.96",1,1,1,1,1,1,1,1,1,1,
+FerrisWheel2,Sequence,The numbers to the left and right of the decimal point are separate and independent,"You are given three sequences of numbers. Please calculate the next two numbers in each sequence.
+ 
+ Sequence 1: 1.8, 1.5, 1.2
+ Sequence 2: 2.5, 2.3, 2.1
+ Sequence 3: 5.6, 4.4, 3.2",1,1,1,1,1,1,1,1,1,1,
+WhacAGopher1,Sorting,Comparing negative numbers is the same as comparing their magnitudes,"Order the following decimal numbers from smallest to largest: 0, 0.7, 1.5, -1.3",1,1,1,1,1,1,1,1,1,1,
+WhacAGopher2,Sorting,Comparing negative numbers is the same as comparing their magnitudes,"Order the following decimal numbers from smallest to largest: 0.6, 0, -0.5, -0.9",1,1,1,1,1,1,1,1,1,1,
+WalkThePlank1,Bucket,Longer decimals are larger; Comparing negative numbers is the same as comparing their magnitudes,"Compare each of the following decimal numbers with 0.61: -0.8, -0.9, 0.139, 0.7, 0.913",1,1,1,1,1,1,1,1,1,1,
+WalkThePlank2,Bucket,Longer decimals are larger; Comparing negative numbers is the same as comparing their magnitudes,"Compare each of the following decimal numbers with 0.32: 0.1, -0.591, 0.8, -0.4, 0.325",1,1,1,1,1,1,1,1,1,1,
+PegLegShop1,Addition,The numbers to the left and right of the decimal point are separate and independent,"Enter the carry digits, for both the integer and decimal portion, and the result digits when adding 7.50 to 3.90",0,1,1,1,1,1,1,1,0,0,
+PegLegShop2,Addition,The numbers to the left and right of the decimal point are separate and independent,"Enter the carry digits, for both the integer and decimal portion, and the result digits when adding 1.32 to 2.69",1,1,1,1,1,0,1,0,0,0,"Note: for 2 that I evaluated as correct, it gave akward and partially incorrect justifications/explanations for ultimately correct answers (identified what the carry digit was and where, but could not properly explain why)"
+FireTheCannon1,Bucket,Shorter decimals are larger; Comparing negative numbers is the same as comparing their magnitudes,"Compare each of the following decimal numbers with -0.4: 0.51, 0.132, 0.9, -0.833",1,1,1,1,1,1,1,1,1,1,
+FireTheCannon2,Bucket,Shorter decimals are larger; Comparing negative numbers is the same as comparing their magnitudes,"Compare each of the following decimal numbers with -1.7: -1.91, -1.87, -1.701, -1.6",1,1,1,1,1,0,1,0,0,1,"Note: every time it was wrong, it mistakenly evaluated -1.701 as greater than -1.7, usually by claiming it was closer on the number line"

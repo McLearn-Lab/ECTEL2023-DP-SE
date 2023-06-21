@@ -1,0 +1,18 @@
+﻿Question Type,Rubric
+1A,"A correct response should correctly and explicitly point out which number is bigger or smaller. It should also provide a reasoning that involves place values, NOT length of decimal numbers."
+1B,"A correct response should correctly and explicitly point out which number is bigger or smaller, and provides one of the following explanations:
+* a reasoning that suggests that a negative number that is greater in absolute value is always smaller than the other negative number
+* a reasoning that suggests that the farther a negative number is from zero, the smaller it is
+The explanation should NOT mention length of decimal numbers."
+1C,"A correct response should correctly point out which number is bigger or smaller, and provides one of the following explanations:
+* a reasoning that suggests that positive numbers are always greater than negative numbers (example: ""it's positive""). 
+* a reasoning that suggests that negative numbers are smaller less than positive numbers (example: ""it's negative""). 
+The explanation should NOT mention length of decimal numbers."
+2,"A correct response should correctly and explicitly state whether the given number is to the left or right of zero. It should also provide the reasoning that the number is either positive and goes to the right of zero, or negative and goes to the left of zero."
+3,A correct response should correctly and explicitly state whether the given number is closer to another number or zero. It should also provide sufficient reasoning about decimal place values.
+4,A correct response should provide the correct procedure for finding the pattern of a sequence
+5,A correct response should provide the correct procedure for finding the next number in the sequence
+6,"A correct response should correctly and explicitly provide the next number in the sequence, and an explanation of how the student arrived at the solution."
+7,"A correct response should state that carrying in decimal addition happens when the sum of the digits in any column is ""greater than 9"" OR ""10 or greater"""
+8,A correct response should mention carrying the number to the next column to the left and adding it to the sum in that column
+9,A correct response should mention aligning numbers by either the decimal point or decimal place values

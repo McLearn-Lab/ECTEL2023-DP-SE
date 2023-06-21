@@ -1,0 +1,1 @@
+Follow the steps in the *ChatGPT-Wrapper* section at [here](https://medium.com/geekculture/using-chatgpt-in-python-eeaed9847e72) to install the library (note: requires Python 3.8). Once you have run `chatgpt install` in the command line and successfully logged in, you can use the Python scripts in this repository.
